@@ -17,10 +17,10 @@ $$
 
 $$
 \frac{1}{2} \mod
-\begin{array}{|}
+\begin{matrix}
 11 & 14 \\
 19 & 8 
-\end{array} = \frac{\left|11 \cdot 8 - 14 \cdot 19\right|}{2} = 89
+\end{matrix} = \frac{\left|11 \cdot 8 - 14 \cdot 19\right|}{2} = 89
 $$
 
 
