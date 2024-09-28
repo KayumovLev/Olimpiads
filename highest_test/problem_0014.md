@@ -17,12 +17,10 @@ $$
 
 $$
 \frac{1}{2} \mod 
-\left| 
-\begin{array}{cc}
+\begin{bmatrix} 
 11 & 14 \\ 
 19 & 8 
-\end{array} 
-\right| = \frac{\left|11 \cdot 8 - 14 \cdot 19\right|}{2} = 89
+\end{bmatrix} = \frac{\left|11 \cdot 8 - 14 \cdot 19\right|}{2} = 89
 $$
 
 
