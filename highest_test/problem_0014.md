@@ -18,7 +18,7 @@ $$
 $$
 \frac{1}{2} \mod 
 \left| 
-\begin{array}{}
+\begin{array}{cc}
 11 & 14 \\ 
 19 & 8 
 \end{array} 
