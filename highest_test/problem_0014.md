@@ -16,8 +16,11 @@ $$
 $$
 
 $$
-\frac{1}{2} \mod 
-\begin{bmatrix} 11 & 14 \\ 19 & 8 \end{bmatrix} = \frac{\left|11 \cdot 8 - 14 \cdot 19\right|}{2} = 89
+\frac{1}{2} \mod
+\begin{array}{|}
+11 & 14 \\
+19 & 8 
+\end{array} = \frac{\left|11 \cdot 8 - 14 \cdot 19\right|}{2} = 89
 $$
 
 
